@@ -39,6 +39,7 @@ Leetcode Solutions
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rawat-Nikhil1/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rawat-Nikhil1/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3516-find-closest-person](https://github.com/Rawat-Nikhil1/DSA/tree/master/3516-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
