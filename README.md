@@ -33,6 +33,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Rawat-Nikhil1/DSA/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
