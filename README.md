@@ -66,4 +66,12 @@ Leetcode Solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0867-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
