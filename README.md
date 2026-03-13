@@ -16,6 +16,7 @@ Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rawat-Nikhil1/DSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rawat-Nikhil1/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -69,6 +70,7 @@ Leetcode Solutions
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rawat-Nikhil1/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -78,5 +80,6 @@ Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rawat-Nikhil1/DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
