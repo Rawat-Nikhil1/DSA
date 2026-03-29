@@ -38,6 +38,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rawat-Nikhil1/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rawat-Nikhil1/DSA/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 ## Math
@@ -98,4 +99,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rawat-Nikhil1/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
