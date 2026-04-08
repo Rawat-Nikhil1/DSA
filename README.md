@@ -6,6 +6,7 @@ Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@ Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -94,6 +96,7 @@ Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Rawat-Nikhil1/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -110,6 +113,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rawat-Nikhil1/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Rawat-Nikhil1/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
@@ -117,6 +121,7 @@ Leetcode Solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
