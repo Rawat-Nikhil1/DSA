@@ -9,6 +9,7 @@ Leetcode Solutions
 | [0015-3sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Rawat-Nikhil1/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
@@ -33,6 +34,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Rawat-Nikhil1/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -100,6 +102,7 @@ Leetcode Solutions
 | ------- |
 | [0015-3sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Rawat-Nikhil1/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Rawat-Nikhil1/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0876-middle-of-the-linked-list) |
