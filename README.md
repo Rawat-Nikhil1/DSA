@@ -32,6 +32,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Rawat-Nikhil1/DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rawat-Nikhil1/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Rawat-Nikhil1/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -64,6 +65,7 @@ Leetcode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Rawat-Nikhil1/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rawat-Nikhil1/DSA/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/Rawat-Nikhil1/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rawat-Nikhil1/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
@@ -162,6 +164,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Rawat-Nikhil1/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rawat-Nikhil1/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
