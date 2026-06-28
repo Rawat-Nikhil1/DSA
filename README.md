@@ -10,6 +10,7 @@ Leetcode Solutions
 | [0016-3sum-closest](https://github.com/Rawat-Nikhil1/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Rawat-Nikhil1/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -83,6 +84,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -188,4 +190,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
