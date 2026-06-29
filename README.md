@@ -29,6 +29,7 @@ Leetcode Solutions
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rawat-Nikhil1/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rawat-Nikhil1/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rawat-Nikhil1/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rawat-Nikhil1/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3379-transformed-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/3379-transformed-array) |
@@ -91,6 +92,7 @@ Leetcode Solutions
 | [0152-maximum-product-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rawat-Nikhil1/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
