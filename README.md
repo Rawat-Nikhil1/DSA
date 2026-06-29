@@ -24,6 +24,7 @@ Leetcode Solutions
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0867-transpose-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Rawat-Nikhil1/DSA/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rawat-Nikhil1/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -90,6 +91,7 @@ Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rawat-Nikhil1/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -200,4 +202,13 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
