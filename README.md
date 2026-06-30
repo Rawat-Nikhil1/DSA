@@ -22,6 +22,7 @@ Leetcode Solutions
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Rawat-Nikhil1/DSA/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Rawat-Nikhil1/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -193,6 +194,7 @@ Leetcode Solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Rawat-Nikhil1/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
