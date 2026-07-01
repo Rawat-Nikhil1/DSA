@@ -84,6 +84,7 @@ Leetcode Solutions
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rawat-Nikhil1/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2485-find-the-pivot-integer](https://github.com/Rawat-Nikhil1/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rawat-Nikhil1/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-find-closest-person](https://github.com/Rawat-Nikhil1/DSA/tree/master/3516-find-closest-person) |
 ## Dynamic Programming
@@ -197,6 +198,7 @@ Leetcode Solutions
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rawat-Nikhil1/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2485-find-the-pivot-integer](https://github.com/Rawat-Nikhil1/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Rawat-Nikhil1/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
