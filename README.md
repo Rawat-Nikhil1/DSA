@@ -12,6 +12,7 @@ Leetcode Solutions
 | [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rawat-Nikhil1/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0152-maximum-product-subarray) |
@@ -58,6 +59,7 @@ Leetcode Solutions
 | ------- |
 | [0015-3sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rawat-Nikhil1/DSA/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rawat-Nikhil1/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
