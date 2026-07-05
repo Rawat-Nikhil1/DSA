@@ -85,6 +85,7 @@ Leetcode Solutions
 | [0076-minimum-window-substring](https://github.com/Rawat-Nikhil1/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rawat-Nikhil1/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Leetcode Solutions
 | [0155-min-stack](https://github.com/Rawat-Nikhil1/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
