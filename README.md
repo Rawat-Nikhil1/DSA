@@ -79,6 +79,7 @@ Leetcode Solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rawat-Nikhil1/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rawat-Nikhil1/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/3379-transformed-array) |
 ## String
 |  |
@@ -92,6 +93,7 @@ Leetcode Solutions
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/3174-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Leetcode Solutions
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
