@@ -24,6 +24,7 @@ Leetcode Solutions
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/Rawat-Nikhil1/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Rawat-Nikhil1/DSA/tree/master/0724-find-pivot-index) |
@@ -216,6 +217,7 @@ Leetcode Solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Rawat-Nikhil1/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
