@@ -47,6 +47,7 @@ Leetcode Solutions
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rawat-Nikhil1/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Rawat-Nikhil1/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rawat-Nikhil1/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2574-left-and-right-sum-differences](https://github.com/Rawat-Nikhil1/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rawat-Nikhil1/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -236,6 +237,7 @@ Leetcode Solutions
 | [0875-koko-eating-bananas](https://github.com/Rawat-Nikhil1/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rawat-Nikhil1/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Rawat-Nikhil1/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sliding Window
 |  |
 | ------- |
