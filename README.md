@@ -15,6 +15,7 @@ Leetcode Solutions
 | [0054-spiral-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rawat-Nikhil1/DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Rawat-Nikhil1/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rawat-Nikhil1/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0152-maximum-product-subarray) |
@@ -115,6 +116,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rawat-Nikhil1/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
