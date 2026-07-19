@@ -90,6 +90,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rawat-Nikhil1/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rawat-Nikhil1/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -119,6 +120,7 @@ Leetcode Solutions
 | [0066-plus-one](https://github.com/Rawat-Nikhil1/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/0258-add-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rawat-Nikhil1/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2485-find-the-pivot-integer](https://github.com/Rawat-Nikhil1/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -287,4 +289,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Rawat-Nikhil1/DSA/tree/master/0986-interval-list-intersections) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
