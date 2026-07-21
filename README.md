@@ -113,6 +113,7 @@ Leetcode Solutions
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Rawat-Nikhil1/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/Rawat-Nikhil1/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/3174-clear-digits) |
 ## Math
@@ -194,6 +195,7 @@ Leetcode Solutions
 | [0917-reverse-only-letters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Rawat-Nikhil1/DSA/tree/master/0986-interval-list-intersections) |
+| [2000-reverse-prefix-of-word](https://github.com/Rawat-Nikhil1/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rawat-Nikhil1/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Depth-First Search
 |  |
@@ -215,6 +217,7 @@ Leetcode Solutions
 | [0739-daily-temperatures](https://github.com/Rawat-Nikhil1/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/Rawat-Nikhil1/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/3174-clear-digits) |
 ## Monotonic Stack
