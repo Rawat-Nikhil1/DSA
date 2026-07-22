@@ -105,6 +105,7 @@ Leetcode Solutions
 | [0038-count-and-say](https://github.com/Rawat-Nikhil1/DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Rawat-Nikhil1/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Rawat-Nikhil1/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rawat-Nikhil1/DSA/tree/master/0409-longest-palindrome) |
@@ -191,6 +192,7 @@ Leetcode Solutions
 | [0142-linked-list-cycle-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0977-squares-of-a-sorted-array) |
