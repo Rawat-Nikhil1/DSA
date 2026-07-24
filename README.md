@@ -129,6 +129,7 @@ Leetcode Solutions
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/0258-add-digits) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Rawat-Nikhil1/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rawat-Nikhil1/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2485-find-the-pivot-integer](https://github.com/Rawat-Nikhil1/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -255,6 +256,7 @@ Leetcode Solutions
 | [0287-find-the-duplicate-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Rawat-Nikhil1/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Rawat-Nikhil1/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
