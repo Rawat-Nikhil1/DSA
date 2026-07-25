@@ -51,6 +51,7 @@ Leetcode Solutions
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rawat-Nikhil1/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rawat-Nikhil1/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1748-sum-of-unique-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rawat-Nikhil1/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rawat-Nikhil1/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -77,6 +78,7 @@ Leetcode Solutions
 | [0904-fruit-into-baskets](https://github.com/Rawat-Nikhil1/DSA/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Rawat-Nikhil1/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rawat-Nikhil1/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
@@ -166,6 +168,7 @@ Leetcode Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
 | [1189-maximum-number-of-balloons](https://github.com/Rawat-Nikhil1/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Matrix
 |  |
 | ------- |
