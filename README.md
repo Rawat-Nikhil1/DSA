@@ -24,6 +24,7 @@ Leetcode Solutions
 | [0152-maximum-product-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -70,6 +71,7 @@ Leetcode Solutions
 | [0138-copy-list-with-random-pointer](https://github.com/Rawat-Nikhil1/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Rawat-Nikhil1/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rawat-Nikhil1/DSA/tree/master/0383-ransom-note) |
@@ -91,6 +93,7 @@ Leetcode Solutions
 | [0056-merge-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rawat-Nikhil1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -170,6 +173,7 @@ Leetcode Solutions
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Rawat-Nikhil1/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
@@ -309,6 +313,7 @@ Leetcode Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rawat-Nikhil1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
