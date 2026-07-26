@@ -45,6 +45,7 @@ Leetcode Solutions
 | [0904-fruit-into-baskets](https://github.com/Rawat-Nikhil1/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Rawat-Nikhil1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Rawat-Nikhil1/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rawat-Nikhil1/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -95,6 +96,7 @@ Leetcode Solutions
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Rawat-Nikhil1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rawat-Nikhil1/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
@@ -213,6 +215,7 @@ Leetcode Solutions
 | [0876-middle-of-the-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Rawat-Nikhil1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Rawat-Nikhil1/DSA/tree/master/0986-interval-list-intersections) |
 | [2000-reverse-prefix-of-word](https://github.com/Rawat-Nikhil1/DSA/tree/master/2000-reverse-prefix-of-word) |
