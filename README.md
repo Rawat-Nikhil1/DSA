@@ -29,6 +29,7 @@ Leetcode Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -75,6 +76,7 @@ Leetcode Solutions
 | [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rawat-Nikhil1/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rawat-Nikhil1/DSA/tree/master/0409-longest-palindrome) |
@@ -97,6 +99,7 @@ Leetcode Solutions
 | [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rawat-Nikhil1/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
@@ -176,6 +179,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rawat-Nikhil1/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
@@ -318,6 +322,7 @@ Leetcode Solutions
 | [0169-majority-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -340,9 +345,15 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
