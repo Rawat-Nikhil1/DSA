@@ -88,6 +88,7 @@ Leetcode Solutions
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Rawat-Nikhil1/DSA/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/Rawat-Nikhil1/DSA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Rawat-Nikhil1/DSA/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Rawat-Nikhil1/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -138,6 +139,7 @@ Leetcode Solutions
 | [0409-longest-palindrome](https://github.com/Rawat-Nikhil1/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rawat-Nikhil1/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Rawat-Nikhil1/DSA/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/Rawat-Nikhil1/DSA/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Rawat-Nikhil1/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -183,6 +185,7 @@ Leetcode Solutions
 | [0410-split-array-largest-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
+| [0763-partition-labels](https://github.com/Rawat-Nikhil1/DSA/tree/master/0763-partition-labels) |
 ## Counting Sort
 |  |
 | ------- |
@@ -232,6 +235,7 @@ Leetcode Solutions
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0763-partition-labels](https://github.com/Rawat-Nikhil1/DSA/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Rawat-Nikhil1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0917-reverse-only-letters) |
