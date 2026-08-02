@@ -11,6 +11,7 @@ Leetcode Solutions
 | [0016-3sum-closest](https://github.com/Rawat-Nikhil1/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Rawat-Nikhil1/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rawat-Nikhil1/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0054-spiral-matrix) |
@@ -287,6 +288,7 @@ Leetcode Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rawat-Nikhil1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Rawat-Nikhil1/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/0162-find-peak-element) |
