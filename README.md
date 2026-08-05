@@ -37,6 +37,7 @@ Leetcode Solutions
 | [0410-split-array-largest-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Rawat-Nikhil1/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
@@ -114,6 +115,7 @@ Leetcode Solutions
 | [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/Rawat-Nikhil1/DSA/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rawat-Nikhil1/DSA/tree/master/0692-top-k-frequent-words) |
@@ -197,6 +199,7 @@ Leetcode Solutions
 | [0409-longest-palindrome](https://github.com/Rawat-Nikhil1/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/Rawat-Nikhil1/DSA/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
 | [0763-partition-labels](https://github.com/Rawat-Nikhil1/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0767-reorganize-string) |
@@ -387,6 +390,7 @@ Leetcode Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Rawat-Nikhil1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Rawat-Nikhil1/DSA/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rawat-Nikhil1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0767-reorganize-string) |
