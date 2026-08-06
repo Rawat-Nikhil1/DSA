@@ -78,6 +78,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Rawat-Nikhil1/DSA/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Rawat-Nikhil1/DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rawat-Nikhil1/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Rawat-Nikhil1/DSA/tree/master/0141-linked-list-cycle) |
@@ -142,6 +143,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rawat-Nikhil1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Rawat-Nikhil1/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Rawat-Nikhil1/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rawat-Nikhil1/DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Rawat-Nikhil1/DSA/tree/master/0076-minimum-window-substring) |
@@ -164,6 +166,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rawat-Nikhil1/DSA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Rawat-Nikhil1/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
