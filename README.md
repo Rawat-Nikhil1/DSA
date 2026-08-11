@@ -186,6 +186,7 @@ Leetcode Solutions
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rawat-Nikhil1/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2485-find-the-pivot-integer](https://github.com/Rawat-Nikhil1/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rawat-Nikhil1/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Rawat-Nikhil1/DSA/tree/master/3516-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -441,4 +442,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rawat-Nikhil1/DSA/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
