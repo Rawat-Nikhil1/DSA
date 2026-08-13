@@ -42,6 +42,7 @@ Leetcode Solutions
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Rawat-Nikhil1/DSA/tree/master/0575-distribute-candies) |
 | [0658-find-k-closest-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rawat-Nikhil1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Rawat-Nikhil1/DSA/tree/master/0704-binary-search) |
@@ -97,6 +98,7 @@ Leetcode Solutions
 | [0451-sort-characters-by-frequency](https://github.com/Rawat-Nikhil1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Rawat-Nikhil1/DSA/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/Rawat-Nikhil1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Rawat-Nikhil1/DSA/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0767-reorganize-string) |
