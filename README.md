@@ -181,6 +181,7 @@ Leetcode Solutions
 | [0070-climbing-stairs](https://github.com/Rawat-Nikhil1/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/Rawat-Nikhil1/DSA/tree/master/0342-power-of-four) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Rawat-Nikhil1/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0754-reach-a-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Rawat-Nikhil1/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -255,6 +256,7 @@ Leetcode Solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rawat-Nikhil1/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/Rawat-Nikhil1/DSA/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -380,6 +382,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Rawat-Nikhil1/DSA/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
