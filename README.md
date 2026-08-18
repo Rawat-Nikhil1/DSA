@@ -37,6 +37,7 @@ Leetcode Solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Rawat-Nikhil1/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
@@ -182,6 +183,7 @@ Leetcode Solutions
 | [0202-happy-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Rawat-Nikhil1/DSA/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Rawat-Nikhil1/DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Rawat-Nikhil1/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0754-reach-a-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Rawat-Nikhil1/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -201,6 +203,7 @@ Leetcode Solutions
 | [0152-maximum-product-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rawat-Nikhil1/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -257,6 +260,7 @@ Leetcode Solutions
 | [0021-merge-two-sorted-lists](https://github.com/Rawat-Nikhil1/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Rawat-Nikhil1/DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -485,4 +489,16 @@ Leetcode Solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Rawat-Nikhil1/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rawat-Nikhil1/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
