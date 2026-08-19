@@ -313,6 +313,7 @@ Leetcode Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/Rawat-Nikhil1/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rawat-Nikhil1/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rawat-Nikhil1/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Rawat-Nikhil1/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rawat-Nikhil1/DSA/tree/master/0739-daily-temperatures) |
@@ -333,6 +334,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rawat-Nikhil1/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Rawat-Nikhil1/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,6 +407,7 @@ Leetcode Solutions
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rawat-Nikhil1/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
