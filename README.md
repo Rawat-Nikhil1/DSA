@@ -190,6 +190,7 @@ Leetcode Solutions
 | [0973-k-closest-points-to-origin](https://github.com/Rawat-Nikhil1/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rawat-Nikhil1/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2235-add-two-integers](https://github.com/Rawat-Nikhil1/DSA/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/Rawat-Nikhil1/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rawat-Nikhil1/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
