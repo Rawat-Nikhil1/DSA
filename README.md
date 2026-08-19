@@ -44,6 +44,7 @@ Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Rawat-Nikhil1/DSA/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Rawat-Nikhil1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Rawat-Nikhil1/DSA/tree/master/0704-binary-search) |
@@ -367,6 +368,7 @@ Leetcode Solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rawat-Nikhil1/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Rawat-Nikhil1/DSA/tree/master/0904-fruit-into-baskets) |
