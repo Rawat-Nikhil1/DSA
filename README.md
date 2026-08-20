@@ -186,6 +186,7 @@ Leetcode Solutions
 | [0342-power-of-four](https://github.com/Rawat-Nikhil1/DSA/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Rawat-Nikhil1/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0728-self-dividing-numbers](https://github.com/Rawat-Nikhil1/DSA/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/Rawat-Nikhil1/DSA/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Rawat-Nikhil1/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
