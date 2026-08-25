@@ -314,6 +314,7 @@ Leetcode Solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rawat-Nikhil1/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Doubly-Linked List
 |  |
@@ -504,6 +505,7 @@ Leetcode Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/Rawat-Nikhil1/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rawat-Nikhil1/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -524,6 +526,7 @@ Leetcode Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/Rawat-Nikhil1/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rawat-Nikhil1/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -565,4 +568,8 @@ Leetcode Solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rawat-Nikhil1/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
