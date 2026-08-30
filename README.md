@@ -98,6 +98,7 @@ Leetcode Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rawat-Nikhil1/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rawat-Nikhil1/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rawat-Nikhil1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -167,6 +168,7 @@ Leetcode Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Rawat-Nikhil1/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rawat-Nikhil1/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rawat-Nikhil1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/Rawat-Nikhil1/DSA/tree/master/0692-top-k-frequent-words) |
@@ -387,6 +389,7 @@ Leetcode Solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rawat-Nikhil1/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rawat-Nikhil1/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Rawat-Nikhil1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0713-subarray-product-less-than-k) |
