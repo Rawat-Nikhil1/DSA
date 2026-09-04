@@ -1,9 +1,8 @@
 class Solution {
 public:
-    int find_max(vector<int> f) {
-        int n = f.size();
-        int max_count = INT_MIN;
-        for (int i = 0; i < n; i++) {
+    int find_max(vector<int>&f) {
+        int max_count = -1;
+        for (int i = 0; i < 256; i++) {
             max_count = max(f[i], max_count);
         }
         return max_count;
@@ -26,14 +25,12 @@ public:
             while (diff > k) {
                 f[s[low]]--;
                 low++;
-                len = high - low + 1;
                 max_count = find_max(f);
+                len = high - low + 1;
 
                 diff = len - max_count;
             }
-            if (diff <= k) {
-                res = max(res, len);
-            }
+            res = max(res, len);
         }
         return res;
     }
