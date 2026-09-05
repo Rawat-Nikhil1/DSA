@@ -327,6 +327,7 @@ Leetcode Solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rawat-Nikhil1/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Rawat-Nikhil1/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rawat-Nikhil1/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Doubly-Linked List
 |  |
@@ -561,6 +562,7 @@ Leetcode Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Rawat-Nikhil1/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Rawat-Nikhil1/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rawat-Nikhil1/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Minimax
@@ -601,4 +603,9 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rawat-Nikhil1/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Rawat-Nikhil1/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rawat-Nikhil1/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
