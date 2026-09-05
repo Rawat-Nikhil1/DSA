@@ -1,31 +1,40 @@
 class Solution {
 public:
-    void bfs(vector<vector<int>>& isConnected, int node, vector<bool>& vis) {
+    void bfs(vector<vector<int>>& adjLs, int node, vector<bool>& vis) {
         queue<int> q;
         q.push(node);
-        vis[node] = true;
 
         while (!q.empty()) {
             int curr = q.front();
             q.pop();
-            for (int i = 0; i < isConnected[curr].size(); i++) {
+            for (int i = 0; i < adjLs[curr].size(); i++) {
+                int neigh = adjLs[curr][i];
 
-                if (isConnected[curr][i] == 1 && !vis[i]) {
-                    q.push(i);
-                    vis[i] = true;
+                if (vis[neigh] == false) {
+                    q.push(neigh);
+                    vis[neigh] = true;
                 }
             }
         }
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int vertices = isConnected.size();
-        vector<bool> vis(vertices, false);
-        int count = 0;
+        int V = isConnected.size();
+        vector<vector<int>> adjLs(V);
+        vector<bool> vis(V, false);
 
-        for (int i = 0; i < vertices; i++) {
+        // to change adjacency matrix to list
+        for (int i = 0; i < V; i++) {
+            for (int j = 0; j < V; j++) {
+                if (isConnected[i][j] == 1 && i != j) {
+                    adjLs[i].push_back(j);
+                }
+            }
+        }
+        int count = 0;
+        for (int i = 0; i < V; i++) {
             if (vis[i] == false) {
                 count++;
-                bfs(isConnected, i, vis);
+                bfs(adjLs, i, vis);
             }
         }
         return count;
