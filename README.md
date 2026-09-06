@@ -42,6 +42,7 @@ Leetcode Solutions
 | [0496-next-greater-element-i](https://github.com/Rawat-Nikhil1/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Rawat-Nikhil1/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rawat-Nikhil1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rawat-Nikhil1/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Rawat-Nikhil1/DSA/tree/master/0575-distribute-candies) |
@@ -219,6 +220,7 @@ Leetcode Solutions
 | [0410-split-array-largest-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rawat-Nikhil1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Rawat-Nikhil1/DSA/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rawat-Nikhil1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rawat-Nikhil1/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rawat-Nikhil1/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -258,6 +260,7 @@ Leetcode Solutions
 | [0200-number-of-islands](https://github.com/Rawat-Nikhil1/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rawat-Nikhil1/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Rawat-Nikhil1/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -564,6 +567,7 @@ Leetcode Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rawat-Nikhil1/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Rawat-Nikhil1/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Rawat-Nikhil1/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rawat-Nikhil1/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rawat-Nikhil1/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rawat-Nikhil1/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
